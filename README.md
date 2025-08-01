@@ -50,6 +50,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=00BFFF)
 ![Figma](https://img.shields.io/badge/Figma-0A0F1C?style=for-the-badge&logo=figma&logoColor=00BFFF)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0F1C?style=for-the-badge&logo=openai&logoColor=00BFFF)
+![AWS](https://img.shields.io/badge/AWS_Cloud-0A0F1C?style=for-the-badge&logo=amazonaws&logoColor=00BFFF)
 
 </div>
 
@@ -61,8 +62,14 @@
 - ⚡ **Scrum / Kanban**  
 - 🎯 **Prototipado Rápido**  
 - 🤖 **Ingeniería de Prompts**
+- 💡 **Design Thinking**
+- 🚀 **Lean Development**
+- 🔄 **CI/CD (Integración y Entrega Continua)**
+- 🧪 **TDD (Test Driven Development)**
+- 🌐 **Agile Mindset**
 
 ---
+
 
 ## 🌌 Proyecto Destacado
 ```javascript
