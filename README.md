@@ -21,7 +21,6 @@
 ### 💻 Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-0A0F1C?style=for-the-badge&logo=php&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/Python-0A0F1C?style=for-the-badge&logo=python&logoColor=00BFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1C?style=for-the-badge&logo=javascript&logoColor=00BFFF)
 
 ### 🌐 Desarrollo Web
 ![HTML5](https://img.shields.io/badge/HTML5-0A0F1C?style=for-the-badge&logo=html5&logoColor=00BFFF)
