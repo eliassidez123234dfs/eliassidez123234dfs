@@ -1,7 +1,7 @@
 # Desarrollador Junior | Líder Colaborativo  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Bienvenido+a+mi+universo+de+desarrollo;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%A8+Experiencias+Web+3D+Inmersivas;%F0%9F%A4%9D+Liderazgo+y+Trabajo+Colaborativo" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Bienvenido+a+mi+universo+de+desarrollo;%F0%9F%9A%80+Junior;%F0%9F%8E%A8+Experiencias+Web+Inmersivas;%F0%9F%A4%9D+Liderazgo+y+Trabajo+Colaborativo" alt="Typing Animation" />
 </div>
 
 ---
